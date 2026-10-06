@@ -1,0 +1,6 @@
+{
+  "name": "Ableton Builder & Injector Studio",
+  "description": "Convert production plans (production_plan.json) into native Ableton Live Audio Effect Racks (.adg), Live Sets (.als), MIDI cues (.mid), and standalone Python scripts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
